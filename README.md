@@ -2,6 +2,9 @@
 
 This is a simple Tic Tac Toe game implemented using HTML, CSS, and JavaScript. It supports two game modes: Player vs Player and Player vs Computer.
 
+![screenshot](https://github.com/hassanjebli/tic-tac-toe-game/assets/151209380/1b563d1d-442c-468f-b19f-0d326442a968)
+
+
 ## Features
 
 - Two game modes:
